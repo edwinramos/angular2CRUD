@@ -67,5 +67,7 @@
     "@types/jasmine": "^2.5.36",
     "@types/selenium-webdriver": "^2.53.33"
   },
-  "repository": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwinramos/angular2CRUD.git" 
 }
